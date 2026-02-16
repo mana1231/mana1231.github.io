@@ -15,13 +15,13 @@
 minimal_mistakes_skin    : "air" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ja-JP"
+locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : ""
+title                    : "Kota Manabe"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Kota Manabe"
-description              : # "An amazing website."
+description              : "Personal website."
 url                      : "https://mana1231.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "mana1231/mana1231.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -113,16 +113,16 @@ analytics:
 
 # Site Author
 author:
-  name             : "眞鍋 光汰"
+  name             : "眞鍋 光汰 (Kota Manabe)"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "愛媛大学大学院 理工学研究科 数理情報プログラム 修士1年"
+  bio              : "愛媛大学大学院 理工学研究科<br>数理情報プログラム 修士1年"
   location         : "Somewhere"
   email            :
   links:
-    - label: "Email"
+    - label: "Mail"
       icon: "fas fa-fw fa-envelope-square"
-      url: "mailto:manabe12311@gmail.com"
-    - label: "Lab"
+      url: "mailto:manabe@ai.cs.ehime-u.ac.jp"
+    - label: "Research Lab"
       icon: "fas fa-fw fa-link"
       url: "https://sites.google.com/view/ehime-nlp/"
     - label: "X(twitter)"
@@ -130,7 +130,7 @@ author:
       # url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/mana1231"
 
 # Site Footer
 footer:
@@ -138,22 +138,13 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url:
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
+      url: "https://github.com/mana1231"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "GitLab"
-      icon: "fab fa-fw fa-gitlab"
-      # url:
-    - label: "Bitbucket"
-      icon: "fab fa-fw fa-bitbucket"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
-  since: "2013"
+  since: "2025"
 
 
 # Reading Files
